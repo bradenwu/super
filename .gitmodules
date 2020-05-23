@@ -1,0 +1,6 @@
+[submodule "lib/lib_a"]
+	path = lib/lib_a
+	url = /Users/wuzhigang/code/tmp/test-submodule/liveA
+[submodule "lib/lib_b"]
+	path = lib/lib_b
+	url = /Users/wuzhigang/code/tmp/test-submodule/liveB
